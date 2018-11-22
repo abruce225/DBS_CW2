@@ -1,4 +1,4 @@
-SELECT country,
+SELECT country countrycode,
        countband,
        countperson,
        ( countband + countperson ) totalMusicians,
